@@ -15,8 +15,8 @@ This study proposes a machine learning (ML)-based approach to predict contrast e
 ## 📂 Repository Structure  
 ├── ML Codes.ipynb/                   # Python scripts for ML scripts  
 ├── Model Selection.ipynb             # Python scripts for robust rotational model selection and scoring 
-├── Supplemental File 1.xlsx          # Supplemental File 1.xlsx # presents the complete list of average rotational performances, rankings, and scores for all 1,200 CA+DRA combinations
-├── Supplemental Files 2 to 4.xlsx    # Supplemental Files 2 to 4.xlsx # present rotation results, including external tests with BraTS-Africa, UCSF-PDGM, and UPENN-GBM. Supplementary Files 2, 3, and 4 provide detailed information on these rotations. Each file contains Sheets 1-5, which outline the specific features selected by each FSA, the hyperparameters used for all ML algorithms, and the results of five-fold cross-validation, including average values and standard deviations.
+├── Supplemental File 1.xlsx          # Supplemental File 1.xlsx  presents the complete list of average rotational performances, rankings, and scores for all 1,200 CA+DRA combinations
+├── Supplemental Files 2 to 4.xlsx    # Supplemental Files 2 to 4.xlsx  present rotation results, including external tests with BraTS-Africa, UCSF-PDGM, and UPENN-GBM. Supplementary Files 2, 3, and 4 provide detailed information on these rotations. Each file contains Sheets 1-5, which outline the specific features selected by each FSA, the hyperparameters used for all ML algorithms, and the results of five-fold cross-validation, including average values and standard deviations.
 ├── README.md                     # This file  
  
 
