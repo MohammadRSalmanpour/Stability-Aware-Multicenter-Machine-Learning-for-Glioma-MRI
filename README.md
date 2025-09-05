@@ -5,8 +5,6 @@ This repository contains the code and supplementary materials for the paper:
 Title: **Enhancement Without Contrast: Stability-Aware Multicenter Machine Learning for Glioma MRI**
 
 
-ChatGPT said:
-
 This study proposes a machine learning (ML)-based approach to predict contrast enhancement in glioma imaging from non-contrast MRI, addressing safety, cost, and accessibility issues with gadolinium-based contrast agents. A stability-aware framework is introduced to select reproducible ML models across diverse multicenter datasets, ensuring robust performance. The approach enables safer, cost-effective glioma diagnosis and monitoring while maintaining diagnostic accuracy.
 - Leveraging MRI scans from 4 large public datasets  
 - Benchmarking 48 feature selection/extraction methods and 25 classifiers  
